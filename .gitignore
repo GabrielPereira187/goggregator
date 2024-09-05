@@ -1,0 +1,3 @@
+# Ignorar arquivos de configuração e sensíveis
+.env
+senha.txt
