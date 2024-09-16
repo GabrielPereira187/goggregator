@@ -1,6 +1,0 @@
-senha postgres: gabriel13022000
-senha database: postgres
-
-//2n7fg2DuIeNg76FvL51yrQ==
-
-goose postgres postgres://postgres:postgres@localhost:5432/blogator up
